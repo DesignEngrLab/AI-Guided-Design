@@ -1,6 +1,9 @@
 # AI-Guided-Design
 
-This repository contains the source code and relevant materials for "Human-in-the-loop Bayesian Optimization for AI-Guided Design". It includes the code to run the experiments as well as the cleaned up data collected from the user studies.
+This repository contains the source code and relevant materials for "Human-in-the-loop Bayesian Optimization for AI-Guided Design", which is available here: https://asmedigitalcollection.asme.org/mechanicaldesign/article-abstract/doi/10.1115/1.4070429/1228334/Human-in-the-loop-Bayesian-Optimization-for-AI or I can send the preprint via email by request. 
+
+
+It includes the code to run the experiments as well as the cleaned up data collected from the user studies.
 
 Note that some of the code was written in different folders and moved here for clarity. Some of the cross references (e.g. in the Analysis folder) may not be updated accordingly.  I probably forgot a bunch of stuff lol.
 
